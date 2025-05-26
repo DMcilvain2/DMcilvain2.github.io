@@ -4,8 +4,8 @@ A[Start] el@--> B{Number between 1-10}
 B --> C[Entered number is correct number]
 C -->|Larger| D{Too large}
 C -->|Equal| F{Correct}
-C -->|Smaller| E{To small}
 F el@--> G[You Win!]
+C -->|Smaller| E{To small}
 el@{ animate: true }
 ```
 # Step 1: Start - Step 2: Pick a number between 1-10
