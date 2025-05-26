@@ -1,5 +1,7 @@
-# DMcilvain2.github.io # Donovan McIlvain, damcilvain@my.waketech.edu
-# This is my school github account # This repository will hold my class assignments
+# DMcilvain2.github.io 
+# Donovan McIlvain, damcilvain@my.waketech.edu
+# This is my school github account 
+# This repository will hold my class assignments
 # About Me
 ## My Interests
 * I'm very big into gaming and technology in general.
